@@ -1,0 +1,14 @@
+おはよ,/home/pi/voiceSet/ohayou.wav
+おはよう,/home/pi/voiceSet/ohayou.wav
+おはようございます,/home/pi/voiceSet/ohayou.wav
+こんにちは,/home/pi/voiceSet/konichiwa.wav
+こんちは,/home/pi/voiceSet/konichiwa.wav
+こんばんは,/home/pi/voiceSet/konbanwa.wav
+おばんです,/home/pi/voiceSet/konbanwa.wav
+行ってきます,/home/pi/voiceSet/itterassai.wav
+行きます,/home/pi/voiceSet/itterassai.wav
+行ってくる,/home/pi/voiceSet/itterassai.wav
+ただいま,/home/pi/voiceSet/okaeri.wav
+戻りました,/home/pi/voiceSet/okaeri.wav
+おやすみ,/home/pi/voiceSet/oyasumi.wav
+おやすみなさい,/home/pi/voiceSet/oyasumi.wav
